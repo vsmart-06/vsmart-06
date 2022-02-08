@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vsmart-06
+- I'm a high school student
+- I'm a python developer
